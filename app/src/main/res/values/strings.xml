@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Custom View</string>
+    <string name="full_sum">Общая сумма расходов: %1$d рублей</string>
+    <string name="tap_to_see_more">Нажмите на сектор</string>
+    <string name="select_category_hint">Выберите категорию на графике</string>
+    <string name="selected_category">%1$s: %2$d рублей</string>
+    <string name="pie_chart_content_description">Круговая диаграмма расходов по категориям</string>
 </resources>
